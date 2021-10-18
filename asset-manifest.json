@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/nightmare/static/css/main.0a70177e.chunk.css",
-    "main.js": "/nightmare/static/js/main.62348419.chunk.js",
+    "main.css": "/nightmare/static/css/main.2615d5cc.chunk.css",
+    "main.js": "/nightmare/static/js/main.17583e12.chunk.js",
     "runtime-main.js": "/nightmare/static/js/runtime-main.d7944df8.js",
     "static/js/2.28cd20c5.chunk.js": "/nightmare/static/js/2.28cd20c5.chunk.js",
     "index.html": "/nightmare/index.html",
     "static/js/2.28cd20c5.chunk.js.LICENSE.txt": "/nightmare/static/js/2.28cd20c5.chunk.js.LICENSE.txt",
+    "static/media/background.6207900d.mp4": "/nightmare/static/media/background.6207900d.mp4",
     "static/media/logo.39034ebf.png": "/nightmare/static/media/logo.39034ebf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d7944df8.js",
     "static/js/2.28cd20c5.chunk.js",
-    "static/css/main.0a70177e.chunk.css",
-    "static/js/main.62348419.chunk.js"
+    "static/css/main.2615d5cc.chunk.css",
+    "static/js/main.17583e12.chunk.js"
   ]
 }
