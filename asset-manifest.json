@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nightmare/static/css/main.42d33696.chunk.css",
+    "main.css": "/nightmare/static/css/main.0a70177e.chunk.css",
     "main.js": "/nightmare/static/js/main.62348419.chunk.js",
     "runtime-main.js": "/nightmare/static/js/runtime-main.d7944df8.js",
     "static/js/2.28cd20c5.chunk.js": "/nightmare/static/js/2.28cd20c5.chunk.js",
@@ -11,7 +11,7 @@
   "entrypoints": [
     "static/js/runtime-main.d7944df8.js",
     "static/js/2.28cd20c5.chunk.js",
-    "static/css/main.42d33696.chunk.css",
+    "static/css/main.0a70177e.chunk.css",
     "static/js/main.62348419.chunk.js"
   ]
 }
