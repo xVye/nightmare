@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/nightmare/static/css/main.94217629.chunk.css",
-    "main.js": "/nightmare/static/js/main.5a669e03.chunk.js",
+    "main.css": "/nightmare/static/css/main.da5ae988.chunk.css",
+    "main.js": "/nightmare/static/js/main.ab77f803.chunk.js",
     "runtime-main.js": "/nightmare/static/js/runtime-main.d7944df8.js",
-    "static/js/2.b7edf857.chunk.js": "/nightmare/static/js/2.b7edf857.chunk.js",
+    "static/js/2.28cd20c5.chunk.js": "/nightmare/static/js/2.28cd20c5.chunk.js",
     "index.html": "/nightmare/index.html",
-    "static/js/2.b7edf857.chunk.js.LICENSE.txt": "/nightmare/static/js/2.b7edf857.chunk.js.LICENSE.txt"
+    "static/js/2.28cd20c5.chunk.js.LICENSE.txt": "/nightmare/static/js/2.28cd20c5.chunk.js.LICENSE.txt",
+    "static/media/logo.39034ebf.png": "/nightmare/static/media/logo.39034ebf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d7944df8.js",
-    "static/js/2.b7edf857.chunk.js",
-    "static/css/main.94217629.chunk.css",
-    "static/js/main.5a669e03.chunk.js"
+    "static/js/2.28cd20c5.chunk.js",
+    "static/css/main.da5ae988.chunk.css",
+    "static/js/main.ab77f803.chunk.js"
   ]
 }
